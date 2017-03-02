@@ -1,0 +1,7 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\x64\Debug\ShopManager.Model.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\x64\Debug\ShopManager.Model.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\x64\Debug\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\x64\Debug\Cryptography.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\obj\x64\Debug\ShopManager.Model.csprojResolveAssemblyReference.cache
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\obj\x64\Debug\ShopManager.Model.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\obj\x64\Debug\ShopManager.Model.pdb

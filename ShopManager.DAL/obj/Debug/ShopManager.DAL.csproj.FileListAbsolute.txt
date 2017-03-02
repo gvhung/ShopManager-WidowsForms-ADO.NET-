@@ -1,0 +1,9 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\bin\Debug\ShopManager.DAL.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\bin\Debug\ShopManager.DAL.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\obj\Debug\ShopManager.DAL.csprojResolveAssemblyReference.cache
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\obj\Debug\ShopManager.DAL.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\obj\Debug\ShopManager.DAL.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\bin\Debug\ShopManager.Model.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\bin\Debug\ShopManager.Model.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\bin\Debug\ShopManager.Parser.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DAL\bin\Debug\ShopManager.Parser.pdb

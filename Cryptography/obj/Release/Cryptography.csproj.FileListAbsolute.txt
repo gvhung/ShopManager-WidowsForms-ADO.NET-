@@ -1,0 +1,9 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\bin\Release\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\bin\Release\Cryptography.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\obj\Release\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\obj\Release\Cryptography.pdb
+E:\EPAM\TRAINING\ShopManager\Cryptography\bin\Release\Cryptography.dll
+E:\EPAM\TRAINING\ShopManager\Cryptography\bin\Release\Cryptography.pdb
+E:\EPAM\TRAINING\ShopManager\Cryptography\obj\Release\Cryptography.csprojResolveAssemblyReference.cache
+E:\EPAM\TRAINING\ShopManager\Cryptography\obj\Release\Cryptography.dll
+E:\EPAM\TRAINING\ShopManager\Cryptography\obj\Release\Cryptography.pdb

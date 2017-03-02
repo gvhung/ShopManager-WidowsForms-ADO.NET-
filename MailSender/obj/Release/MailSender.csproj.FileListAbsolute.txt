@@ -1,0 +1,9 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\bin\Release\MailSender.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\bin\Release\MailSender.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\obj\Release\MailSender.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\obj\Release\MailSender.pdb
+E:\EPAM\TRAINING\ShopManager\MailSender\bin\Release\MailSender.dll
+E:\EPAM\TRAINING\ShopManager\MailSender\bin\Release\MailSender.pdb
+E:\EPAM\TRAINING\ShopManager\MailSender\obj\Release\MailSender.csprojResolveAssemblyReference.cache
+E:\EPAM\TRAINING\ShopManager\MailSender\obj\Release\MailSender.dll
+E:\EPAM\TRAINING\ShopManager\MailSender\obj\Release\MailSender.pdb

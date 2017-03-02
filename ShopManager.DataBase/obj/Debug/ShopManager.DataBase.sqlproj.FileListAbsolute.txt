@@ -1,0 +1,9 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\bin\Debug\ShopManager.DataBase.dacpac
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\bin\Debug\ShopManager.DataBase.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\bin\Debug\ShopManager.DataBase.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\obj\Debug\ShopManager.DataBase.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\obj\Debug\ShopManager.DataBase.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\obj\Debug\Model.xml
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\obj\Debug\refactor.xml
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\obj\Debug\postdeploy.sql
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\obj\Debug\predeploy.sql

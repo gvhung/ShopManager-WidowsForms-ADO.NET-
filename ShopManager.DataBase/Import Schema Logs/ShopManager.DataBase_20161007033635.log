@@ -1,0 +1,75 @@
+07.10.2016 18:36:35	This log contains information about the import schema operation into project 'ShopManager.DataBase' on computer 'DESKTOP-FIR7IUN' by user 'sviat'.
+07.10.2016 18:36:36	Import of database schema has started.
+07.10.2016 18:36:42	Gathering database options
+07.10.2016 18:36:42	Gathering users
+07.10.2016 18:36:42	Gathering roles
+07.10.2016 18:36:42	Gathering application roles
+07.10.2016 18:36:42	Gathering role memberships
+07.10.2016 18:36:42	Gathering filegroups
+07.10.2016 18:36:42	Gathering full-text catalogs
+07.10.2016 18:36:42	Gathering assemblies
+07.10.2016 18:36:42	Gathering certificates
+07.10.2016 18:36:42	Gathering asymmetric keys
+07.10.2016 18:36:42	Gathering symmetric keys
+07.10.2016 18:36:42	Gathering encrypted symmetric keys
+07.10.2016 18:36:42	Gathering schemas
+07.10.2016 18:36:42	Gathering XML schema collections
+07.10.2016 18:36:42	Gathering user-defined data types
+07.10.2016 18:36:42	Gathering user-defined types
+07.10.2016 18:36:42	Gathering table types
+07.10.2016 18:36:42	Gathering unique keys for table types
+07.10.2016 18:36:42	Gathering primary keys for table types
+07.10.2016 18:36:42	Gathering indexes for table types
+07.10.2016 18:36:42	Gathering check constraints for table types
+07.10.2016 18:36:42	Gathering default constraints for table types
+07.10.2016 18:36:42	Gathering partition functions
+07.10.2016 18:36:42	Gathering partition schemes
+07.10.2016 18:36:42	Gathering functions
+07.10.2016 18:36:42	Gathering encrypted functions
+07.10.2016 18:36:42	Gathering aggregates
+07.10.2016 18:36:42	Gathering procedures
+07.10.2016 18:36:42	Gathering encrypted procedures
+07.10.2016 18:36:42	Gathering tables
+07.10.2016 18:36:42	Gathering primary keys
+07.10.2016 18:36:42	Gathering unique constraints
+07.10.2016 18:36:42	Gathering foreign keys
+07.10.2016 18:36:42	Gathering default constraints
+07.10.2016 18:36:42	Gathering check constraints
+07.10.2016 18:36:42	Gathering views
+07.10.2016 18:36:42	Gathering encrypted views
+07.10.2016 18:36:42	Gathering indexes
+07.10.2016 18:36:42	Gathering statistics
+07.10.2016 18:36:42	Gathering full-text index stoplists
+07.10.2016 18:36:42	Gathering search property lists
+07.10.2016 18:36:42	Gathering search properties
+07.10.2016 18:36:42	Gathering full-text indexes
+07.10.2016 18:36:42	Gathering column store indexes
+07.10.2016 18:36:42	Gathering spatial indexes
+07.10.2016 18:36:42	Gathering XML indexes
+07.10.2016 18:36:42	Gathering Selective XML indexes
+07.10.2016 18:36:42	Gathering encrypted triggers
+07.10.2016 18:36:42	Gathering triggers
+07.10.2016 18:36:42	Gathering encrypted and clr ddl triggers
+07.10.2016 18:36:42	Gathering ddl triggers
+07.10.2016 18:36:42	Gathering synonyms
+07.10.2016 18:36:42	Gathering defaults
+07.10.2016 18:36:42	Gathering data constraint uddt bindings
+07.10.2016 18:36:42	Gathering rules
+07.10.2016 18:36:42	Gathering data constraint uddt bindings
+07.10.2016 18:36:42	Gathering message types
+07.10.2016 18:36:42	Gathering queues
+07.10.2016 18:36:42	Gathering contracts
+07.10.2016 18:36:42	Gathering services
+07.10.2016 18:36:42	Gathering event notifications
+07.10.2016 18:36:42	Gathering remote service bindings
+07.10.2016 18:36:42	Gathering broker priorities
+07.10.2016 18:36:42	Gathering signatures
+07.10.2016 18:36:42	Gathering data compression options
+07.10.2016 18:36:42	Gathering sequence types
+07.10.2016 18:36:42	Gathering extended properties
+07.10.2016 18:36:42	Gathering credentials
+07.10.2016 18:36:42	Gathering logins
+07.10.2016 18:36:42	Gathering server audits
+07.10.2016 18:36:44	Finished importing database.
+07.10.2016 18:36:44	A summary of the import was saved to the following location: C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.DataBase\Import Schema Logs\ShopManager.DataBase_20161007033635.log
+07.10.2016 18:36:44	Click Finish to continue...

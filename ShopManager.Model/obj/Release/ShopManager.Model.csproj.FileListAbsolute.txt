@@ -1,0 +1,14 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\Release\ShopManager.Model.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\Release\ShopManager.Model.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\Release\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\bin\Release\Cryptography.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\obj\Release\ShopManager.Model.csprojResolveAssemblyReference.cache
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\obj\Release\ShopManager.Model.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\ShopManager.Model\obj\Release\ShopManager.Model.pdb
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\bin\Release\ShopManager.Model.dll
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\bin\Release\ShopManager.Model.pdb
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\bin\Release\Cryptography.dll
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\bin\Release\Cryptography.pdb
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\obj\Release\ShopManager.Model.csprojResolveAssemblyReference.cache
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\obj\Release\ShopManager.Model.dll
+E:\EPAM\TRAINING\ShopManager\ShopManager.Model\obj\Release\ShopManager.Model.pdb

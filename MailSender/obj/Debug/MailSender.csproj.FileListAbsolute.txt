@@ -1,0 +1,4 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\bin\Debug\MailSender.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\bin\Debug\MailSender.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\obj\Debug\MailSender.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\MailSender\obj\Debug\MailSender.pdb

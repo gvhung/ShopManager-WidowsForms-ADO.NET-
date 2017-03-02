@@ -1,0 +1,4 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\bin\x64\Release\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\bin\x64\Release\Cryptography.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\obj\x64\Release\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Cryptography\obj\x64\Release\Cryptography.pdb

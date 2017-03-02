@@ -1,0 +1,14 @@
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\Tests.exe.config
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\Tests.exe
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\Tests.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\ShopManager.DAL.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\ShopManager.Model.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\ShopManager.Parser.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\ShopManager.DAL.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\ShopManager.Model.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\ShopManager.Parser.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\obj\Debug\Tests.exe
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\obj\Debug\Tests.pdb
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\Cryptography.dll
+C:\Users\sviat\Desktop\MyProjectForEpam\ShopManager\Tests\bin\Debug\Cryptography.pdb

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EFB42E5-C966-4A00-89D3-7F8257701C6C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShopManager.DAL</RootNamespace>
+    <AssemblyName>ShopManager.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstraction\Repositories\ICategoryRepository.cs" />
+    <Compile Include="Abstraction\Repositories\IDefectedProductRepository.cs" />
+    <Compile Include="Abstraction\Repositories\IEmployeeRepository.cs" />
+    <Compile Include="Abstraction\Repositories\IProductRepository.cs" />
+    <Compile Include="Abstraction\Repositories\IRealizationRepozitory.cs" />
+    <Compile Include="Abstraction\Repositories\IReturnitngRepository.cs" />
+    <Compile Include="Abstraction\Repositories\ISaleRepository.cs" />
+    <Compile Include="Abstraction\Repositories\IStringRepository.cs" />
+    <Compile Include="Abstraction\Repositories\ISubCategoryRepository.cs" />
+    <Compile Include="Abstraction\Repositories\ISupplierRepository.cs" />
+    <Compile Include="Abstraction\Repositories\ISupplyRepository.cs" />
+    <Compile Include="Abstraction\UnitOfWork\IManagerUnitOfWork.cs" />
+    <Compile Include="Abstraction\UnitOfWork\ISellerUnitOfWork.cs" />
+    <Compile Include="Abstraction\UnitOfWork\IUnitOfWork.cs" />
+    <Compile Include="Concrete\Repositories\CategoryRepository.cs" />
+    <Compile Include="Concrete\Repositories\DefectedProductRepository.cs" />
+    <Compile Include="Concrete\Repositories\EmployeeRepository.cs" />
+    <Compile Include="Concrete\Repositories\ProductRepository.cs" />
+    <Compile Include="Concrete\Repositories\RealizationRepository.cs" />
+    <Compile Include="Concrete\Repositories\Repository.cs" />
+    <Compile Include="Concrete\Repositories\ReturningRepository.cs" />
+    <Compile Include="Concrete\Repositories\SalesRepository.cs" />
+    <Compile Include="Concrete\Repositories\StringRepository.cs" />
+    <Compile Include="Concrete\Repositories\SubCategoryRepository.cs" />
+    <Compile Include="Concrete\Repositories\SupplierRepository.cs" />
+    <Compile Include="Concrete\Repositories\SupplyRepository.cs" />
+    <Compile Include="Concrete\SQL\SqlCommandWrapper.cs" />
+    <Compile Include="Concrete\UnitOfWork\ManagerUnitOfWork.cs" />
+    <Compile Include="Concrete\UnitOfWork\SellerUnitOfWork.cs" />
+    <Compile Include="Concrete\UnitOfWork\UnitOfWork.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ShopManager.Model\ShopManager.Model.csproj">
+      <Project>{2f06c981-e348-4708-a058-c715b13f00f3}</Project>
+      <Name>ShopManager.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopManager.Parser\ShopManager.Parser.csproj">
+      <Project>{5fa0b566-9ba4-4d17-a555-629570374882}</Project>
+      <Name>ShopManager.Parser</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
